@@ -1,0 +1,2 @@
+this is my first command for git hub. i want to 
+try exclamation mark, q a and colon  :qa!!
